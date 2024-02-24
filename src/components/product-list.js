@@ -1,5 +1,5 @@
 export const productList = [
-  { id: 1, name: '1', imageUrl: 'produto.jpg', productUrl: 'https://exemplo.com/produto1' },
+  { id: 1, name: 'Dispensador Líquido Sabonete', imageUrl: 'https://down-br.img.susercontent.com/file/br-50009109-acacb32f2bc4b5b48bc5a4b9bf36da3e', productUrl: 'https://shope.ee/50B48JhmOP' },
   { id: 2, name: '2', imageUrl: 'produto.jpg', productUrl: 'https://exemplo.com/produto2' },
   { id: 3, name: '3', imageUrl: 'produto.jpg', productUrl: 'https://exemplo.com/produto2' },
   { id: 4, name: '4', imageUrl: 'produto.jpg', productUrl: 'https://exemplo.com/produto2' },
