@@ -14,7 +14,7 @@ function App() {
       product.name.toLowerCase().includes(searchText.toLowerCase())
     );
     setFilteredProducts(filtered);
-  }, [searchText, productList]);
+  }, [searchText]);
 
   const visibleProducts = filteredProducts.slice(0, visibleProductCount);
 
