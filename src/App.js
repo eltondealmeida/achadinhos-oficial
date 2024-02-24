@@ -1,3 +1,4 @@
+// App.js
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import Product from './components/Product';
@@ -20,6 +21,41 @@ function App() {
 
   const handleShowMoreProducts = () => {
     setVisibleProductCount(prevCount => prevCount + 6);
+  };
+
+  useEffect(() => {
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const handleScroll = () => {
+    const scrollButton = document.querySelector('.scroll-to-top-button');
+    const scrollPosition = window.scrollY;
+
+    // Verifica se o botão deve ser exibido ou ocultado com base na posição da rolagem
+    if (scrollPosition > 0) {
+      scrollButton.style.display = 'block';
+    } else {
+      scrollButton.style.display = 'none';
+    }
+
+    // Limita a posição do botão à área branca do conteúdo do site
+    const contentHeight = document.body.clientHeight;
+    const windowHeight = window.innerHeight;
+    const footerHeight = document.querySelector('.footer').offsetHeight;
+
+    if (scrollPosition > contentHeight - windowHeight - footerHeight) {
+      scrollButton.style.bottom = footerHeight + 20 + 'px';
+    } else {
+      scrollButton.style.bottom = '20px';
+    }
+  };
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
   };
 
   return (
@@ -67,7 +103,7 @@ function App() {
       )}
       <footer className="footer">
         <div className="footer-title">Achadinhos Oficial</div>
-        <span>Nos sigam em nossas redes sociais:</span>
+        <span>Dê uma olhada nos achadinhos incríveis que preparamos para você:</span>
         <div className="footer-social">
           <div>
             <a href="https://www.instagram.com/achadinhos.official.shop" target="_blank" rel="noopener noreferrer">
@@ -91,6 +127,10 @@ function App() {
           </div>
         </div>
       </footer>
+      {/* Adicione o botão de voltar ao topo */}
+      <div className="scroll-to-top-button" onClick={scrollToTop}>
+        <i className="arrow-up"></i>
+      </div>
     </div>
   );
 }
