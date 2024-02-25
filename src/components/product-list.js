@@ -77,4 +77,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lkwu940ftlrmc7', 
     productUrl: 'https://shope.ee/A9tBWmEkZ4' 
   }, 
+  { 
+    id: 14, 
+    name: 'Lençol De Veludo Com Elástico Casal 1,88 X 1,38', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/ff7d7af4ef5304327ea00b26912943c2', 
+    productUrl: 'https://shope.ee/9pGL9aof2H' 
+  }, 
 ];
