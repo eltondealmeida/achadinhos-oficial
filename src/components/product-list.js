@@ -83,4 +83,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/ff7d7af4ef5304327ea00b26912943c2', 
     productUrl: 'https://shope.ee/9pGL9aof2H' 
   }, 
+  { 
+    id: 15, 
+    name: 'Suporte de parede adesivo para Celular e Controle Remoto com 2 ganchos de chaves', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7qvf4-lh7m0y4n9mi7c3', 
+    productUrl: 'https://shope.ee/5V7M0QBy7N' 
+  }, 
 ];
