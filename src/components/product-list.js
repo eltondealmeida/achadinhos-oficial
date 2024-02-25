@@ -95,4 +95,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lrd1hjs2brxg6d', 
     productUrl: 'https://shope.ee/8pNnzYmkpk' 
   },
+  { 
+    id: 17, 
+    name: 'Mini seladora de embalagem de plástico', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lptgu8dw271jdf', 
+    productUrl: 'https://shope.ee/LPFtRLDE3' 
+  },
 ];
