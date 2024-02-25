@@ -38,9 +38,9 @@
   }
 
   .product-card {
-    width: calc(90% - 10px); /* Largura de 50% para cada card */
-    margin-right: -100px;
-    margin-left: -13px;
+    width: calc(90% - 5px); /* Largura de 50% para cada card */
+    margin-right: -90px;
+    margin-left: -5px;
     margin-bottom: 20px; /* Espaçamento inferior entre os cards */
     box-sizing: border-box; /* Garante que a largura do card seja calculada corretamente */
   }
