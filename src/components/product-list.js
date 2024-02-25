@@ -65,4 +65,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lpl2pfblswezce', 
     productUrl: 'https://shope.ee/B5pa9lN7R' 
   },
+  { 
+    id: 12, 
+    name: 'Lençol de Plush 3 Peças - Com elástico', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lpb85xyldnea23', 
+    productUrl: 'https://shope.ee/10ewb54ekj' 
+  },
 ];
