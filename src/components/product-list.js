@@ -59,4 +59,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lrzwofpixclpc4', 
     productUrl: 'https://shope.ee/mPJr6zT8' 
   },
+  { 
+    id: 11, 
+    name: 'Organizador Gaveta Multiuso 6 Divisórias Meias Joias Cabos', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lpl2pfblswezce', 
+    productUrl: 'https://shope.ee/B5pa9lN7R' 
+  },
 ];
