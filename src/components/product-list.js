@@ -54,7 +54,7 @@ export const productList = [
     productUrl: 'https://shope.ee/4fYEpLINz7' 
   },
    { 
-    id: 9, 
+    id: 10, 
     name: 'Kit de cozinha Jogo 12 Peças Utensílios de Cozinha Silicone Colher Espátula', 
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lrzwofpixclpc4', 
     productUrl: 'https://shope.ee/mPJr6zT8' 
