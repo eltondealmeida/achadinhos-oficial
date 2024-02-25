@@ -47,10 +47,16 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbmt-lpi0txmpmbai4a', 
     productUrl: 'https://shope.ee/3ffgej4ECn' 
   },
-    { 
+ { 
     id: 9, 
     name: 'Ventilador De Parede Dobrável Recarregável Multifuncional para Cozinha', 
     imageUrl: 'https://down-br.img.susercontent.com/file/cn-11134211-7r98o-lqmut5q9qv5ha6', 
     productUrl: 'https://shope.ee/4fYEpLINz7' 
+  },
+   { 
+    id: 9, 
+    name: 'Kit de cozinha Jogo 12 Peças Utensílios de Cozinha Silicone Colher Espátula', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lrzwofpixclpc4', 
+    productUrl: 'https://shope.ee/mPJr6zT8' 
   },
 ];
