@@ -47,4 +47,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbmt-lpi0txmpmbai4a', 
     productUrl: 'https://shope.ee/3ffgej4ECn' 
   },
+    { 
+    id: 9, 
+    name: 'Ventilador De Parede Dobrável Recarregável Multifuncional para Cozinha', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/cn-11134211-7r98o-lqmut5q9qv5ha6', 
+    productUrl: 'https://shope.ee/4fYEpLINz7' 
+  },
 ];
