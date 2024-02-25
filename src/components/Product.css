@@ -1,5 +1,3 @@
-/* Product.css */
-
 .product-card {
   width: 100%;
   max-width: 300px; /* Manter o tamanho máximo dos cards */
@@ -31,21 +29,24 @@
   cursor: pointer; /* Mudar o cursor para indicar que é clicável */
 }
 
-
-@media screen and (max-width: 992px) {
-  .product-card {
-    max-width: 300px; /* Ajuste para 3 cartões por linha com espaçamento */
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .product-card {
-    max-width: 300px; /* Ajuste para 2 cartões por linha com espaçamento */
-  }
-}
-
 @media screen and (max-width: 576px) {
+  .product-grid {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    grid-template-columns: repeat(2, 1fr); /* Dois cards por linha */
+    grid-gap: 0px; /* Espaçamento entre os cards */
+  }
+
   .product-card {
-    max-width: 300px; /* Ajuste para 1 cartão por linha com espaçamento */
+    width: calc(90% - 10px); /* Largura de 50% para cada card */
+    margin-right: -100px;
+    margin-left: -13px;
+    margin-bottom: 20px; /* Espaçamento inferior entre os cards */
+    box-sizing: border-box; /* Garante que a largura do card seja calculada corretamente */
   }
 }
+
+
+
+
+
