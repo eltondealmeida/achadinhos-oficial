@@ -71,4 +71,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lpb85xyldnea23', 
     productUrl: 'https://shope.ee/10ewb54ekj' 
   },
+  { 
+    id: 13, 
+    name: 'Organizador de sapato / Sapateira Desmontável', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lkwu940ftlrmc7', 
+    productUrl: 'https://shope.ee/A9tBWmEkZ4' 
+  }, 
 ];
