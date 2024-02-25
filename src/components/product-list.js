@@ -101,4 +101,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lptgu8dw271jdf', 
     productUrl: 'https://shope.ee/LPFtRLDE3' 
   },
+  { 
+    id: 18, 
+    name: 'Kit 2 ou 3 Borrifadores de Azeite Vinagre Spray Pulverizador 100ml', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbl0-lpip83xlvkhzdb', 
+    productUrl: 'https://shope.ee/3ffhtFJJCK' 
+  },
 ];
