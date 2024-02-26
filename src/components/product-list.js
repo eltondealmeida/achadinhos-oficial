@@ -107,4 +107,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbl0-lpip83xlvkhzdb', 
     productUrl: 'https://shope.ee/3ffhtFJJCK' 
   },
+  { 
+    id: 19, 
+    name: 'Caneca Agitadora Automática, 400ml Para Leite De Café Com Tampa , Misturadora Elétrica Água Cabo De Madeira mixer', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbn3-lo1y7j8dul5yab', 
+    productUrl: 'https://shope.ee/2LALgCF9VM' 
+  },
 ];
