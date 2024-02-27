@@ -1,4 +1,3 @@
-// App.js
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import Product from './components/Product';
@@ -13,7 +12,7 @@ function App() {
     const filtered = productList.filter(product =>
       product.name.toLowerCase().includes(searchText.toLowerCase())
     );
-    setFilteredProducts(filtered);
+    setFilteredProducts(filtered.reverse()); // Invertendo a ordem dos produtos
   }, [searchText]);
 
   const visibleProducts = filteredProducts.slice(0, visibleProductCount);
