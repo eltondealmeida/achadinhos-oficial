@@ -36,12 +36,13 @@
     justify-content: space-between;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 0px;
+    margin-left: -8px;
   }
 
   .product-card {
     width: calc(90% - 5px);
-    margin-right: -90px;
-    margin-left: -5px;
+    margin-right: -105px;
+    margin-left: -3px;
     margin-bottom: 20px;
     box-sizing: border-box;
   }
