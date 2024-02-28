@@ -113,4 +113,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbn3-lo1y7j8dul5yab', 
     productUrl: 'https://shope.ee/2LALgCF9VM' 
   },
+  { 
+    id: 20, 
+    name: 'Mini Massageador Elétrico Portátil Cervical EMS Alivia Dores Corpo Pescoço', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lq52ljtu4f0jd9', 
+    productUrl: 'https://shope.ee/7AFf7jP18b' 
+  },
 ];
