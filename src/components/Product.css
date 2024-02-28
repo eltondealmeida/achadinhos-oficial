@@ -1,6 +1,7 @@
+/* Product.css */
 .product-card {
   width: 100%;
-  max-width: 300px; /* Manter o tamanho máximo dos cards */
+  max-width: 300px;
   background-color: #f2f2f2;
   border-radius: 10px;
   margin-bottom: 20px;
@@ -18,35 +19,30 @@
   color: #ff7f00;
   margin-top: 10px;
   font-weight: bold;
-  overflow: hidden; /* Impede que o texto saia do card */
-  white-space: nowrap; /* Impede a quebra de texto */
-  text-overflow: ellipsis; /* Adiciona reticências se o texto for muito longo */
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .product-link {
-  text-decoration: none; /* Remover sublinhado padrão */
-  color: inherit; /* Herdar a cor do texto do pai */
-  cursor: pointer; /* Mudar o cursor para indicar que é clicável */
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 576px) {
   .product-grid {
     flex-wrap: wrap;
     justify-content: space-between;
-    grid-template-columns: repeat(2, 1fr); /* Dois cards por linha */
-    grid-gap: 0px; /* Espaçamento entre os cards */
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 0px;
   }
 
   .product-card {
-    width: calc(90% - 5px); /* Largura de 50% para cada card */
+    width: calc(90% - 5px);
     margin-right: -90px;
     margin-left: -5px;
-    margin-bottom: 20px; /* Espaçamento inferior entre os cards */
-    box-sizing: border-box; /* Garante que a largura do card seja calculada corretamente */
+    margin-bottom: 20px;
+    box-sizing: border-box;
   }
 }
-
-
-
-
-

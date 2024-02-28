@@ -116,11 +116,6 @@ function App() {
               <img src="../logos/kawai-logo.webp" alt="Kwai" className="social-icon" />
             </a>
           </div>
-          <div>
-            <a href="https://www.youtube.com/@achadinhos.official" target="_blank" rel="noopener noreferrer">
-              <img src="../logos/youtube-logo.png" alt="Youtube" className="social-icon" />
-            </a>
-          </div>
         </div>
       </footer>
       <div className="scroll-to-top-button" onClick={scrollToTop}>
