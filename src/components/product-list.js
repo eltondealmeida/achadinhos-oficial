@@ -167,4 +167,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98s-lmi0qxhxp06v68', 
     productUrl: 'https://shope.ee/6KgZPkkWUl' 
   },
+  { 
+    id: 29, 
+    name: 'Biblia Sagrada Black Flowers - Palavra de Jesus em Vermelho - Capa Dura - Com Harpa', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsbjpfva0yecce', 
+    productUrl: 'https://shope.ee/8pNuV4IQQ7' 
+  },
 ];
