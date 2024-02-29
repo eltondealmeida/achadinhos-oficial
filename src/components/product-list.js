@@ -131,4 +131,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-22110-g4pqs3v0w9jva5', 
     productUrl: 'https://shope.ee/5pkIbjbvdf' 
   },
+   { 
+    id: 23, 
+    name: 'Kit bolsa + carteira Tradicional Moderna Transversal Feminina', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/cffaae89838c912efcd2ab45804620fe', 
+    productUrl: 'https://shope.ee/4prlZcI8oK' 
+  },
 ];
