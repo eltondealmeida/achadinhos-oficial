@@ -155,4 +155,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbms-lpb0z1giex7p5e', 
     productUrl: 'https://shope.ee/8pNuNM0KFJ' 
   },
+  { 
+    id: 27, 
+    name: 'Kit 3 Formas com Fundo Removível Antiaderente com Fundo Removível para torta Bolo', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/53e6ce50dffc3d76e5379968f77ddf48', 
+    productUrl: 'https://shope.ee/6zwGCMobXV' 
+  },
 ];
