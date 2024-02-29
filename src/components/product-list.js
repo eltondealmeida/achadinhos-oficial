@@ -149,4 +149,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7qukw-lij3ttuwj3pb12', 
     productUrl: 'https://shope.ee/7zonN8cSzS' 
   },
+   { 
+    id: 26, 
+    name: 'Porta Tempero Giratório com 9 potes de Vidro', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbms-lpb0z1giex7p5e', 
+    productUrl: 'https://shope.ee/8pNuNM0KFJ' 
+  },
 ];
