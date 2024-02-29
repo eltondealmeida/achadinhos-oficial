@@ -119,4 +119,16 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lq52ljtu4f0jd9', 
     productUrl: 'https://shope.ee/7AFf7jP18b' 
   },
+  { 
+    id: 21, 
+    name: 'Placa De Descongelamento 4 Em 1 Degelo De Dupla Face Tábua De Corte De Geada Gadget De Cozinha Com Afiador De Facas-Tabua-tábua', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-22110-b4dx68dtxzjv6e', 
+    productUrl: 'https://shope.ee/mVekn03p' 
+  },
+  { 
+    id: 22, 
+    name: 'Frigideira antiaderente, grande com divisórias, para 3 preparos ao mesmo tempo', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-22110-g4pqs3v0w9jva5', 
+    productUrl: 'https://shope.ee/5pkIbjbvdf' 
+  },
 ];
