@@ -161,4 +161,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/53e6ce50dffc3d76e5379968f77ddf48', 
     productUrl: 'https://shope.ee/6zwGCMobXV' 
   },
+  { 
+    id: 28, 
+    name: 'Kit De 4 Toalhas Banho Grande Barroco', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98s-lmi0qxhxp06v68', 
+    productUrl: 'https://shope.ee/6KgZPkkWUl' 
+  },
 ];
