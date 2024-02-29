@@ -137,4 +137,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/cffaae89838c912efcd2ab45804620fe', 
     productUrl: 'https://shope.ee/4prlZcI8oK' 
   },
+   { 
+    id: 24, 
+    name: 'Bolsa Mochila Maternidade Multifuncional e Impermeável Moderna Reforçada', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/b907c30ce799f222e351e363a7f85ea5', 
+    productUrl: 'https://shope.ee/5Ko2Bo1eLI' 
+  },
 ];
