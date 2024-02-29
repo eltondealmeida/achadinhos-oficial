@@ -143,4 +143,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/b907c30ce799f222e351e363a7f85ea5', 
     productUrl: 'https://shope.ee/5Ko2Bo1eLI' 
   },
+   { 
+    id: 25, 
+    name: 'Jogo de Panelas Kit 9 Pçs Antiaderente Tampa Vidro Teflon', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7qukw-lij3ttuwj3pb12', 
+    productUrl: 'https://shope.ee/7zonN8cSzS' 
+  },
 ];
