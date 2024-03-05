@@ -173,10 +173,16 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsbjpfva0yecce', 
     productUrl: 'https://shope.ee/8pNuV4IQQ7' 
   },
-   { 
+  { 
     id: 30, 
     name: 'Caixa organizadora armario armazenamento dobrável empilhavel com porta rodinhas multiuso - Retratil', 
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqfpp8mrfpyfb2', 
     productUrl: 'https://shope.ee/9zZxz9GsZD' 
+  },
+  { 
+    id: 31, 
+    name: 'Rack Organizador Pia De Cozinha Louça Escorredor De Pratos', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsbi23ydpszxf2', 
+    productUrl: 'https://shope.ee/1qEHlopI7w' 
   },
 ];
