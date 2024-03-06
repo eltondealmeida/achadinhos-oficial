@@ -226,5 +226,11 @@ export const productList = [
     name: 'Espelho Redondo com LED e TOUCH SCREEN', 
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsb917lo3x2z9e', 
     productUrl: 'https://shope.ee/mfNq09gK' 
+  },
+  { 
+    id: 39, 
+    name: 'Chuveiro Deslizante Bar Set Banheiro Fixações Preto 3 Funções', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqr3mlc5k6qvb8', 
+    productUrl: 'https://shope.ee/7AFpvXUPUV' 
   }
 ];
