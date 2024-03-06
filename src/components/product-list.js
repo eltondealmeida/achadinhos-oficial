@@ -191,4 +191,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rblc-lqgn8hwkp3kw0a', 
     productUrl: 'https://shope.ee/9za17DifZK' 
   },
+   { 
+    id: 33, 
+    name: 'Escova De Limpeza Elétrica De Cabo Longo Com Liberação Automática De Líquido E Esponja', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqwnqbile68d15', 
+    productUrl: 'https://shope.ee/3Ajh2nWrfk' 
+  },
 ];
