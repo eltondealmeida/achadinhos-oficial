@@ -238,5 +238,11 @@ export const productList = [
     name: 'Lixeiras Inteligentes Lixeira Automática Com Sensor 16l', 
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-ln9riwbacwcvc8', 
     productUrl: 'https://shope.ee/9pGb6ra9bw' 
+  },
+  { 
+    id: 41, 
+    name: 'Pente Mágico Telescópico De Limpeza Do Couro Cabeludo Home Antiestático Escova Cabelo', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rcd9-lqwu0na806dvc6', 
+    productUrl: 'https://shope.ee/6zwPkZWe70' 
   }
 ];
