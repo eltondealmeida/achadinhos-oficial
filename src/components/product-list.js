@@ -220,5 +220,11 @@ export const productList = [
     name: 'Máscara Elétrica Miles Spider-Man Com Controle Remoto E Carregamento USB', 
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbmo-lowbrp4ydot908', 
     productUrl: 'https://shope.ee/6zwPhzMcUb' 
+  },
+  { 
+    id: 38, 
+    name: 'Espelho Redondo com LED e TOUCH SCREEN', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsb917lo3x2z9e', 
+    productUrl: 'https://shope.ee/mfNq09gK' 
   }
 ];
