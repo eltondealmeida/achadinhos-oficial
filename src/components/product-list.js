@@ -214,5 +214,11 @@ export const productList = [
     name: 'Banheira Inflável Portátil com Encosto 150l Vg Plus', 
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rblx-lnbwb6pp30sn6d', 
     productUrl: 'https://shope.ee/4fYUuxWPtS' 
+  },
+  { 
+    id: 37, 
+    name: 'Máscara Elétrica Miles Spider-Man Com Controle Remoto E Carregamento USB', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbmo-lowbrp4ydot908', 
+    productUrl: 'https://shope.ee/6zwPhzMcUb' 
   }
 ];
