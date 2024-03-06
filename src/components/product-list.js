@@ -197,4 +197,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqwnqbile68d15', 
     productUrl: 'https://shope.ee/3Ajh2nWrfk' 
   },
+  { 
+    id: 34, 
+    name: 'Bola Com Alça e Bola Pula Pula De Brinquedo', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-22120-9urua76mupkv41', 
+    productUrl: 'https://shope.ee/2fnQWDnA2O' 
+  },
 ];
