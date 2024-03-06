@@ -209,4 +209,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/14fe60b415d458f548d3bca18c13534f', 
     productUrl: 'https://shope.ee/mfLgnxAa' 
   }
+  { 
+    id: 36, 
+    name: 'Banheira Inflável Portátil com Encosto 150l Vg Plus', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rblx-lnbwb6pp30sn6d', 
+    productUrl: 'https://shope.ee/4fYUuxWPtS' 
+  }
 ];
