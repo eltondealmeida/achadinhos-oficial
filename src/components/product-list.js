@@ -203,4 +203,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-22120-9urua76mupkv41', 
     productUrl: 'https://shope.ee/2fnQWDnA2O' 
   },
+  { 
+    id: 35, 
+    name: '4 Pcs Toalha Mágica Feminina para Secagem Rápida dos Cabelos', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/14fe60b415d458f548d3bca18c13534f', 
+    productUrl: 'https://shope.ee/mfLgnxAa' 
+  }
 ];
