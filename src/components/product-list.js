@@ -232,5 +232,11 @@ export const productList = [
     name: 'Chuveiro Deslizante Bar Set Banheiro Fixações Preto 3 Funções', 
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqr3mlc5k6qvb8', 
     productUrl: 'https://shope.ee/7AFpvXUPUV' 
+  },
+  { 
+    id: 40, 
+    name: 'Lixeiras Inteligentes Lixeira Automática Com Sensor 16l', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-ln9riwbacwcvc8', 
+    productUrl: 'https://shope.ee/9pGb6ra9bw' 
   }
 ];
