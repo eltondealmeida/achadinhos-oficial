@@ -185,4 +185,10 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsbi23ydpszxf2', 
     productUrl: 'https://shope.ee/1qEHlopI7w' 
   },
+  { 
+    id: 32, 
+    name: 'Caixa de armazenamento de roupas', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rblc-lqgn8hwkp3kw0a', 
+    productUrl: 'https://shope.ee/9za17DifZK' 
+  },
 ];
