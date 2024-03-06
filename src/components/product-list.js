@@ -208,7 +208,7 @@ export const productList = [
     name: '4 Pcs Toalha Mágica Feminina para Secagem Rápida dos Cabelos', 
     imageUrl: 'https://down-br.img.susercontent.com/file/14fe60b415d458f548d3bca18c13534f', 
     productUrl: 'https://shope.ee/mfLgnxAa' 
-  }
+  },
   { 
     id: 36, 
     name: 'Banheira Inflável Portátil com Encosto 150l Vg Plus', 
