@@ -250,5 +250,11 @@ export const productList = [
     name: 'Máquina automática de fazer massa de macarrão', 
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134201-22120-5n83uxs3m6kv50', 
     productUrl: 'https://shope.ee/2LAhjpo1of' 
-  }
+  },
+  { 
+    id: 43, 
+    name: 'Luminaria Luz Noturna Projetor Bluetooth Lua Aurora Boreal Estrelado Quarto Crianca', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/e326518ab6dd52525702f9089110a012', 
+    productUrl: 'https://shope.ee/4VFCKsfaQJ' 
+  },
 ];
