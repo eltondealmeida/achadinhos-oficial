@@ -244,5 +244,11 @@ export const productList = [
     name: 'Pente Mágico Telescópico De Limpeza Do Couro Cabeludo Home Antiestático Escova Cabelo', 
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rcd9-lqwu0na806dvc6', 
     productUrl: 'https://shope.ee/6zwPkZWe70' 
+  },
+  { 
+    id: 42, 
+    name: 'Máquina automática de fazer massa de macarrão', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134201-22120-5n83uxs3m6kv50', 
+    productUrl: 'https://shope.ee/2LAhjpo1of' 
   }
 ];
