@@ -257,4 +257,16 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/e326518ab6dd52525702f9089110a012', 
     productUrl: 'https://shope.ee/4VFCKsfaQJ' 
   },
+  { 
+    id: 44, 
+    name: 'Mini Projetor 1080P WIFI Android TV Portátil Home Theater Suporte HDMI', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsbf9lvem6g423', 
+    productUrl: 'https://shope.ee/LPf9cKFl3' 
+  },
+  { 
+    id: 45, 
+    name: 'Grade de Proteção para Bebê e Idosos Protetor de Cama', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqwdlycf3jf185', 
+    productUrl: 'https://shope.ee/9exKHJJvTv' 
+  },
 ];
