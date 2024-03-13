@@ -269,4 +269,16 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqwdlycf3jf185', 
     productUrl: 'https://shope.ee/9exKHJJvTv' 
   },
+  { 
+    id: 46, 
+    name: 'Ar Condicionado Portátil 7 Cores Mini 3 Em 1 USB Umidificador Purificador Ventilador', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbll-ln3qfnic9gkh6c', 
+    productUrl: 'https://shope.ee/8f4ogqTeWA' 
+  },
+  { 
+    id: 47, 
+    name: 'Tapete Antiderrapante Cozinha', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbk8-lpnyfkrukuj384', 
+    productUrl: 'https://shope.ee/4KvpYAZcrK' 
+  },
 ];
