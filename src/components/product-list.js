@@ -281,4 +281,16 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbk8-lpnyfkrukuj384', 
     productUrl: 'https://shope.ee/4KvpYAZcrK' 
   },
+  { 
+    id: 48, 
+    name: 'Chuveirinho para bidê conjunto de spray preto 4 em 1 SUS304 com válvula de aço inoxidável para banheiro', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsayzsfgf8sbc9', 
+    productUrl: 'https://shope.ee/3pzaVczap1' 
+  },
+  { 
+    id: 49, 
+    name: 'Escorredor Giratório Duplo Multifuncional Inteligente Arroz Macarrão Fruta Salada Massa Utensílios Cozinha', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98s-ll52k9o6h9hnfe', 
+    productUrl: 'https://shope.ee/6V0LgspDTD' 
+  },
 ];
