@@ -293,4 +293,16 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98s-ll52k9o6h9hnfe', 
     productUrl: 'https://shope.ee/6V0LgspDTD' 
   },
+  { 
+    id: 50, 
+    name: 'Varinha Mágica Solta Fogo Magia Bruxo Cosplay Pronta Entrega Magic Wand Fire', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lnisopc99zgva0', 
+    productUrl: 'https://shope.ee/3AjvLV4Det' 
+  },
+  { 
+    id: 51, 
+    name: 'Bolsa guarda-roupa viagem portátil saco de rack de viagem 3 camadas embalagem de bagagem dobrável pendurado saco', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbmy-llbwfzqt4gox1f', 
+    productUrl: 'https://shope.ee/4fYj8RgOT4' 
+  },
 ];
