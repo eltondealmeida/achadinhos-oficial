@@ -199,9 +199,9 @@ export const productList = [
   },
   { 
     id: 34, 
-    name: 'Bola Com Alça e Bola Pula Pula De Brinquedo', 
-    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-22120-9urua76mupkv41', 
-    productUrl: 'https://shope.ee/2fnQWDnA2O' 
+    name: 'Pogobol pula pula Salto De Bola Treinamento De Equilíbrio Infantil', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rcea-lssbb7ekd0td57', 
+    productUrl: 'https://shope.ee/LQFquYsVW' 
   },
   { 
     id: 35, 
@@ -304,5 +304,11 @@ export const productList = [
     name: 'Bolsa guarda-roupa viagem portátil saco de rack de viagem 3 camadas embalagem de bagagem dobrável pendurado saco', 
     imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rbmy-llbwfzqt4gox1f', 
     productUrl: 'https://shope.ee/4fYj8RgOT4' 
+  },
+   { 
+    id: 52, 
+    name: 'Lupa Ampliadora Para Tela De Celular Curva 3d 12 Polegadas', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqnjb7oi5t0na4', 
+    productUrl: 'https://shope.ee/9A1eNF7cs4' 
   },
 ];
