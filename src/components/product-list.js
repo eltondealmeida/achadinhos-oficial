@@ -311,4 +311,16 @@ export const productList = [
     imageUrl: 'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqnjb7oi5t0na4', 
     productUrl: 'https://shope.ee/9A1eNF7cs4' 
   },
+  { 
+    id: 53, 
+    name: 'Brinquedo De Exercício Três Em Um Para Crianças Equipamento De Treinamento Interativo De Salto De Corda Pais E Filhos Ao Ar Livre pula pula', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-7rccp-lsbsaisd4l2n3e', 
+    productUrl: 'https://shope.ee/30R7QaDFC6' 
+  },
+  { 
+    id: 54, 
+    name: 'kit Bandeja Cantinho do Café com xícaras Acrílico Preto Açucareiro e Suporte de Madeira', 
+    imageUrl: 'https://down-br.img.susercontent.com/file/sg-11134201-22110-0q50nf9mjmjvc4', 
+    productUrl: 'https://shope.ee/7AGgOvOPge' 
+  },
 ];
