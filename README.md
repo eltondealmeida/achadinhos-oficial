@@ -1,11 +1,5 @@
 <h3 align="center">Ecommerce Achadinhos Oficial - Produtos afiliados</h3>
 <div align="center">
-  
-![image](https://github.com/user-attachments/assets/91debfb7-05d1-4f62-8992-ca5739c60563)
-
-</div>
-
-<div align="center">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltondealmeida/vitrine-produtos-afiliados">
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltondealmeida/vitrine-produtos-afiliadoss">
@@ -13,6 +7,11 @@
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/eltondealmeida/vitrine-produtos-afiliados">
   
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltondealmeida/vitrine-produtos-afiliados">
+</div>
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/91debfb7-05d1-4f62-8992-ca5739c60563)
+
 </div>
 
 Bem-vindo a vitrine de produtos Achadinhos oficial, esse projeto foi desenvolvido para ajudar as pessoas que desejam seguir com programas de afiliados e não possui uma vitrine de loja para comportar os links dos produtos e o link de afiliado. 
@@ -48,19 +47,19 @@ Com essa vitrine, você só precisa do link de afiliado, nome do produto e link 
 
 Não precisa de banco de dados, não precisa de conhecimento avançado, só precisa seguir o passo a passo abaixo:
 *1° Anote o nome dos produtos que gerou o link de afiliado;
-*2° Anote o link de afiliado do produto especifico; 
-*3º Acesse o produto no Marketplace que se afiliou, clique no produto e na imagem que deseja para sua vitrine, depois é só copiar o link da imagem: 
+*2° Anote o link de afiliado do produto específico; 
+*3º Acesse o produto no Marketplace que se filiou, clique no produto e na imagem que deseja para sua vitrine, depois é só copiar o link da imagem: 
 ![image](https://github.com/user-attachments/assets/d39c6398-6ad3-4fc8-9eef-8b677119d727)
 
 *4º Com os 3 dados copiados, acesse aqui pelo Github mesmo o arquivo src/components/product-list.js, clique em editar arquivos:
 ![image](https://github.com/user-attachments/assets/c5f16ef6-7aeb-46a7-88a4-9f96fbadbf24)
 *5º insira ao final da lista do arquivo o novo produto no seguinte padrão:
 { 
-    id: Proximo numero na ordem dos produtos, 
+    id: Próximo número na ordem dos produtos, 
     name: 'Nome do produto', 
     imageUrl: 'Link da imagem', 
     productUrl: 'Link de afiliado' 
-  },
+},
   
 Exemplo:
 ![image](https://github.com/user-attachments/assets/dbb60bd7-780e-4574-a760-e60f2612f300)
