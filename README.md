@@ -18,7 +18,7 @@
 1. Onde acessar os links dos produtos? <br>
 2. Como pesquisar e filtrar os produtos? <br>
 <br>
-<p>Percebi que nos vídeos de "achadinhos" nas redes sociais, onde os influencers dizem: “clique no produto de número tal na bio”, ao acessar, era um link com vários links, com vários produtos com um número ao lado apenas e sem miniatura de imagem para encontrar o produto facilmente, causando "cansaço" para encontrar o produto do vídeo.</p>
+<p>Percebi que nos vídeos de "achadinhos" nas redes sociais, onde os influencers dizem: “clique no produto de número tal na bio”, ao acessar, são vários links, com vários produtos com um número ao lado apenas, sem opções para pesquisar e sem miniatura de imagem para encontrar o produto facilmente, causando "cansaço" para encontrar o produto do vídeo.</p>
 
 <p>Esse site tem muita coisa legal visando UX/UI, tem responsividade, ou seja, conforme a tela diminui os produtos e botões se adequam, tem um botão de voltar ao topo quando você desce a tela, tem uma regrinha de aparecer de 6 em 6 produtos para ajudar a filtrar os produtos sem "bagunça" na tela, os novos produtos aparecem em primeiro, para manter o site atualizado e o que eu mais gosto: autocompletar, ou seja, conforme você escreve, os produtos relacionados começam a aparecer, sem necessidade de clicar em pesquisar ou algo do tipo.</p>
 
