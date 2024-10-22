@@ -71,11 +71,11 @@ Para começar a usar a vitrine, siga estas etapas:
 <div align="center"> <img src="https://github.com/user-attachments/assets/dbb60bd7-780e-4574-a760-e60f2612f300" alt="Exemplo de inserção de produto" width="500" /> </div>
 Obs.: Só não esqueça das chaves { e }, a cada novo produto.
 
-Agora você precisa salvar as alterações dando o commit, o padrão que adotei é o seguinte: Novo produto: Nome do produto
+6. Agora você precisa salvar as alterações dando o commit, o padrão que adotei é o seguinte: Novo produto: Nome do produto
 Exemplo:
-
 <div align="center"> <img src="https://github.com/user-attachments/assets/8b146fbd-ef84-4cc6-9c2b-f605501a8034" alt="Exemplo de commit" width="500" /> </div>
 
+Obs.: O site deve estar publicado para que possa divulgar o link, você pode adquirir um domínio ou publicar pelo netlify.
 
 
 ## Autor
