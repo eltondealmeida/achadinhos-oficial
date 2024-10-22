@@ -1,6 +1,8 @@
 <h3 align="center">Ecommerce Achadinhos Oficial - Produtos afiliados</h3>
 <div align="center">
-![image](https://github.com/user-attachments/assets/a6463544-b2f0-4439-b57a-53288c0d77c3)
+  
+![image](https://github.com/user-attachments/assets/91debfb7-05d1-4f62-8992-ca5739c60563)
+
 </div>
 
 <div align="center">
